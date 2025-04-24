@@ -8,7 +8,7 @@ The link to the Github repository of the project is as follow:
 https://github.com/Yitong-web/CS5296-Group15-Project
 3. Detailed Installation Steps
 1) Clone the Repository: Users need to clone the project from GitHub to local. Specific command:
-git clone https://github.com/Ysenniko/CityU_CS5296_CloudComputing_Project.git
+git clone https://github.com/Yitong-web/CS5296-Group15-Project.git
 2) Install Dependencies: The project requires the following dependencies to be installed:
 - Recommended openjdk version: v17.0
 - Recommended python version: python==3.9
